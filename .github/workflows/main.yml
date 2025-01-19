@@ -1,4 +1,4 @@
-            - name: Format SQL
+- name: Format SQL
   # You may pin to the exact commit or the version.
   # uses: ryohidaka/action-sql-format@ee85c5025b7794441ffefda386ff4c08063c16cc
   uses: ryohidaka/action-sql-format@v0.1.0
